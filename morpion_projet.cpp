@@ -1,7 +1,6 @@
 /***********************************************************************************************************************
- PROJET D'ALGO : JEU DE MORPION
- Fait par AGANZE LWABOSHI MOISE ( numero étudiant : E22A787Y ) et ROBIN NTWARI ( numéro étudiant : E22B889W) le 20 décembre 2023
- Groupe 381c
+ PROJET  : JEU DE MORPION
+ Fait par AGANZE LWABOSHI MOISE le 20 décembre 2023
  ***********************************************************************************************************************/
 
 
