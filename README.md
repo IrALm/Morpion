@@ -30,8 +30,11 @@ Ce projet n'utilise pas de **Makefile** et n'a pas de dépendances externes. Voi
 
 ### 1. **Compilation**
 
-Si vous utilisez **g++** pour compiler le projet, ouvrez un terminal dans le répertoire contenant le fichier source `morpion_infinite.cpp` et exécutez la commande suivante pour compiler le programme :
+Si vous utilisez **g++** pour compiler le projet, ouvrez un terminal dans le répertoire contenant le fichier source `morpion_projet.cpp` et exécutez la commande suivante pour compiler le programme :
 
 ```bash
 g++ morpion_projet.cpp -o morpion_projet
+
+```bash
+./morpion_projet
 
