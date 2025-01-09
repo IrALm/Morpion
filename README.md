@@ -1,4 +1,4 @@
-# Jeu de Morpion - Infinite Grid
+# Jeu de Morpion - Grille Infinie
 
 ## Description
 
