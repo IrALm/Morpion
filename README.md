@@ -35,6 +35,7 @@ Si vous utilisez **g++** pour compiler le projet, ouvrez un terminal dans le ré
 ```bash
 g++ morpion_projet.cpp -o morpion_projet
 
+pour l'execution :
 ```bash
 ./morpion_projet
 
